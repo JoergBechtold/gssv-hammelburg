@@ -1,0 +1,535 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="default.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+.auto-style4 {
+	text-align: left;
+}
+.auto-style5 {
+	border: 1px solid #E3E3E3;
+}
+.auto-style6 {
+	border: 1px solid #B8B8B8;
+}
+.auto-style7 {
+	text-align: center;
+}
+.auto-style8 {
+	margin: 10px;
+}
+.auto-style9 {
+	color: #000000;
+}
+.auto-style10 {
+	color: #FF0000;
+}
+</style>
+<title>GSSV Hammelburg e.V.</title>
+<link rel="shortcut icon" href="Bilder%20Seiten/icon.png" type="image/png" />
+<link rel="icon" href="Bilder%20Seiten/icon.png" type="image/png" />
+</head>
+
+
+<body>
+<div id="header-wrapper">
+ <div id="header">
+ <div id="logo">
+	 <img height="150" src="Bilder%20Seiten/Banner.jpg" width="1200" /></div> 
+  <div id="menu">
+	<ul style="left: 0px; top: 0px; height: 15px">
+	<li><a href="index.html" title="">Homepage</a></li>
+	<li><a href="Ueber_uns" title="">Über uns</a></li>
+	<li class="current_page_item"><a href="Aktuelles"  title="">Aktuelles</a></li>
+	<li><a href="Termine"  title="">Termine</a></li>
+	<li><a href="#" onClick=”return true”>Ausbildung</a>
+	<ul>
+	<li><a href="BH" title="">Begleithundeausbildung</a></li>
+	<li><a href="VPG" title="">Vielseitigkeitssport</a></li>
+	<li><a href="THS" title="">Turnierhundesport</a></li></ul></li>
+	<li><a href="Welpenspielgruppe" title="">Welpenspielgruppe</a></li>
+	<li><a href="Impressum" title="">Impressum</a></li>
+	<li><a href="http://picasaweb.google.com/DagmarKnuettel89" title="">Galerie</a></li>
+	</ul>
+	</div>
+	<br>
+
+<div id="banner"><div class="img-border"> <a href="#">
+	<img src="Bilder%20Seiten/IMG_4328_2.jpg" width="1120" height="574" alt="" /></a></div></div></div></div>
+<div id="wrapper">
+<div id="page-wrapper">
+<div id="page">
+<div id="wide-content"><div>
+			<div id="Titel" class="auto-style7">
+			<div id="logo_links">
+					<img height="93" src="Bilder%20Seiten/logoklein.jpeg" width="125" /></div>
+			<div id="logo_rechts">
+						<img height="93" src="Bilder%20Seiten/logoklein.jpeg" width="125" /></div>
+				Aktuelles</div>				
+			<h3 style="text-align: center;">&nbsp;</h3>
+			<h3 style="text-align: center;">DMC Championat in Unna</h3>
+			<p class="auto-style4">Wir gratulieren unserem Mitglied Joachim 
+			Streitberger mit seiner Hexe vom Herrenberger Schloß. Sie erreichten 
+			95/84/84= 263 Punkte. </p>
+			<p class="auto-style4">Herzlichen Glückwunsch!</p>
+			<h3 style="text-align: center;">Der GSSV zu Gast bei der 
+			Frühjahrsprüfung beim SV Bad Kissingen</h3>
+			<p class="auto-style4">Unsere Teams waren sehr erfolgreich:<table style="width: 100%">
+				<tr>
+					<td style="width: 367px; height: 58px">
+					<span id="fbPhotoSnowliftCaption" aria-live="polite" class="fbPhotosPhotoCaption" data-ft="{&quot;tn&quot;:&quot;K&quot;}" tabindex="0">
+					<span class="hasCaption">Josef Danz mit Anthrax des Dragons 
+					du Courtival<br />
+					<br />
+					<br />
+					FPr 3: <strong>94 Punkte</strong> / SG</span></span></td>
+					<td>
+					<img height="33%" src="Bilder%20Seiten/FPrSV_1.jpg" width="33%" />&nbsp;</td>
+				</tr>
+				<tr>
+					<td style="width: 367px">
+					<span id="fbPhotoSnowliftCaption0" aria-live="polite" class="fbPhotosPhotoCaption" data-ft="{&quot;tn&quot;:&quot;K&quot;}" tabindex="0">
+					<span class="hasCaption">Rudi Mayer mit Sam vom Kammberg<br />
+					<br />
+					<br />
+					BH:<strong> bestanden</strong></span></span></td>
+					<td>
+					<img height="33%" src="Bilder%20Seiten/FPrSV__2.jpg" width="33%" />&nbsp;</td>
+				</tr>
+				<tr>
+					<td style="width: 367px">
+					<span id="fbPhotoSnowliftCaption2" aria-live="polite" class="fbPhotosPhotoCaption" data-ft="{&quot;tn&quot;:&quot;K&quot;}" tabindex="0">
+					<span class="hasCaption">Claudia Appel mit Baxter vom Bösen 
+					Onkel<br />
+					<br />
+					<br />
+					BH: <strong>bestanden</strong></span></span></td>
+					<td>
+					<img height="33%" src="Bilder%20Seiten/FPrSV_4.jpg" width="33%" />&nbsp;</td>
+				</tr>
+				<tr>
+					<td style="width: 367px">
+					<span id="fbPhotoSnowliftCaption1" aria-live="polite" class="fbPhotosPhotoCaption" data-ft="{&quot;tn&quot;:&quot;K&quot;}" tabindex="0">
+					<span class="hasCaption">Emil Ehrenberg mit Michel vom 
+					Herrenberger Schloss<br />
+					<br />
+					IPO 1: 85/91/93<br />
+					<br />
+					Gesamt: <strong>269 Punkte</strong>/ G</span></span></td>
+					<td>
+					<img height="33%" src="Bilder%20Seiten/FPrSV_3.jpg" width="33%" />&nbsp;</td>
+				</tr>
+				<tr>
+					<td style="width: 367px; height: 58px">
+					<span id="fbPhotoSnowliftCaption3" aria-live="polite" class="fbPhotosPhotoCaption" data-ft="{&quot;tn&quot;:&quot;K&quot;}" tabindex="0">
+					<span class="hasCaption">Wolfgang Appel mit Jupp vom 
+					Fuldatal<br />
+					<br />
+					IPO 3: 89/94/91<br />
+					<br />
+					Gesamt: <strong>274 Punkte</strong> / SG</span></span></td>
+					<td>
+					<img height="33%" src="Bilder%20Seiten/FPrSV_5.jpg" width="33%" />&nbsp;</td>
+				</tr>
+				<tr>
+					<td style="width: 367px">
+					<span id="fbPhotoSnowliftCaption4" aria-live="polite" class="fbPhotosPhotoCaption" data-ft="{&quot;tn&quot;:&quot;K&quot;}" tabindex="0">
+					<span class="hasCaption">Claudia Appel mit Franco du Bois 
+					des Trembles<br />
+					<br />
+					IPO 3: 100/94/97<br />
+					<br />
+					Gesamt: <strong>291 Punkte</strong> / V<br />
+					<span class="auto-style9"><strong class="auto-style10">
+					Tagessieger</strong></span></span></span></td>
+					<td>
+					<img height="33%" src="Bilder%20Seiten/FPrSV__6.jpg" width="33%" />&nbsp;</td>
+				</tr>
+			</table>
+			</p>
+			<p class="auto-style4">Herzlichen Glückwunsch an alle Teilnehmer!</p>
+			<p class="auto-style4">&nbsp;</p>
+			<h3 style="text-align: center;">Geänderte Übungsstunden</h3>
+			<p class="auto-style4">Leider müssen Daniels 
+						Gruppen um 14 Uhr und 15 Uhr bis auf Weiteres entfallen. 
+						Die Welpenspielstunde sowie die allgemeine Übungsstunde 
+						ab 16 Uhr finden aber weiterhin wie gewohnt statt.</p>
+			<p class="auto-style4">Wir danken Daniel für sein großes Engagement 
+			der letzten Jahre und wünschen ihm auf seinem beruflichen 
+			Werdegang alles Gute.</p>
+			<h3 style="text-align: center;">&nbsp;</h3>
+			<h3 style="text-align: center;">Herbstprüfung am 02.11.2014</h3>
+			<p style="text-align: center;">Die Ergebnisse gibt es
+			<a href="Herbstpruefung14.html">hier</a>, Bilder 
+			<a href="https://plus.google.com/photos/116993697241196408164/albums/6087076943946017569?banner=pwa">
+			hier</a>. </p>
+			<p style="text-align: center;">Herzlichen Glückwunsch an alle 
+			Teilnehmer!</p>
+			<p style="text-align: center;">&nbsp;</p>
+			<h3 style="text-align: center;">Erfolgreiche Teilnehmer bei der 
+			Prüfung des SV Bad Kissingen<img class="auto-style8" height="25%" src="Bilder%20Seiten/Claudia_FrancoSVKG.jpg" style="float: right" width="25%" /> 
+			am 05.10.14</h3>
+			<p class="auto-style4"><span>Claudia Appel erreichte mit ihrem 
+			Franco du Bois des Tremples den <strong>1. Platz</strong> mit 
+			95/86/97 = 278 Punkten. Herzlichen Glückwunsch!</span></p>
+			<p class="auto-style4">Außerdem erreichten Josef Danz und Anthrax in 
+			der Fpr 3 95 Punkte und Wolfgang Appel und Jupp in der IPO 3 274 
+			Punkte (96/92/86).</p>
+			<p class="auto-style4">Herzlichen Glückwunsch!</p>
+			<p class="auto-style4">&nbsp;</p>
+			<p class="auto-style4">&nbsp;</p>
+			<p class="auto-style4">&nbsp;</p>
+			<p class="auto-style4">&nbsp;</p>
+			<p class="auto-style4">&nbsp;</p>
+			<p class="auto-style4">&nbsp;</p>
+			<h3 style="text-align: center;">Bayerische Meisterschaft IPO Ghd in 
+			Kempten 2014</h3>
+			<p class="auto-style4">
+			<span class="userContent" data-ft="{&quot;tn&quot;:&quot;K&quot;}">
+			Der GSSV Hammelburg gratuliert seinem Mitglied Joachim 
+			Streitenberger herzlichst zum vierten Platz mit dem Spitzenergebnis 
+			von 287 Punkten (99/92/96). </span></p>
+			<p style="text-align: center;">&nbsp;</p>
+			<h3 style="text-align: center;">Neue Ausbilder</h3>
+			<p class="auto-style4">Katharina Hartmann und Daniel Klüspies haben 
+			die Prüfung zum Fachausbilder für Gebrauchshundesport erfolgreich 
+			gemeistert. Herzlichen Glückwunsch!</p>
+			<h3 style="text-align: center;">&nbsp;</h3>
+			<h3 style="text-align: center;">Landesgruppenmeisterschaft IPO des 
+			PSK Hessen 2014</h3>
+			<p class="auto-style4">
+			<span class="userContent" data-ft="{&quot;tn&quot;:&quot;K&quot;}">
+			Wir gratulieren unserem Vereinsmitglied Wendelin Göller mit Incka 
+			vom Hatzbachtal zum 7. Platz bei der hessischen Landesmeisterschaft 
+			IPO beim PSK Fulda.</span></p>
+			<p style="text-align: center;">&nbsp;</p>
+			<h3 style="text-align: center;">Landesgruppenausscheidung FH des PSK Hessen 
+			2014</h3>
+			<p class="auto-style4">
+			<span class="userContent" data-ft="{&quot;tn&quot;:&quot;K&quot;}">
+			Wendelin Göller hat mit Incka vom Hatzbachtal (RS) bei der hessischen Landesmeisterschaft 
+			mit 93 Punkten den 
+			zweiten Platz in der Stufe FH2 erreicht. Herzlichen Glückwunsch!</span></p>
+			<h3 style="text-align: center;">&nbsp;</h3>
+			<h3 style="text-align: center;">Frühjahrsprüfung am 06.04.2014</h3>
+			<p class="auto-style7">
+			<img height="576" src="Bilder%20Seiten/IMG_3422.JPG" width="1024" /></p>
+			<p class="auto-style4">Die Ergebnisse stehen
+			<a href="Fruehjahrspruefung14.html">hier</a>, Bilder gibt es in der
+			<a href="https://plus.google.com/photos/116993697241196408164/albums/5999899400063988625?authkey=CKbc8LujldnJAg">
+			Galerie</a>. </p>
+			<h3 style="text-align: center;">Herbstprüfung am 27.10.2013</h3>
+			<p class="auto-style4">Die Ergebnisse gibt es<a href="Herbstpruefung13.html" target="_blank"> 
+			hier</a>, Bilder in der 
+			<a href="https://picasaweb.google.com/DagmarKnuettel89/Herbstprufung2013" target="_blank">Galerie</a>. 
+			Diesmal gibt es leider vorerst keine Bilder vom Schutzdienst, da ich 
+			am frühen Nachmittag weg musste.</p>
+			<p style="text-align: center;">&nbsp;</p>
+			<h3 style="text-align: center;">Frühjahrsprüfung am 
+					14.04.2013</h3>
+					Die Ergebnisse gibt es
+					<a href="Fruehjahrspruefung13.html" target="_blank">hier</a>, Bilder in der
+					<a href="https://picasaweb.google.com/DagmarKnuettel89/Fruhjahrsprufung2013" target="_blank">
+					Galerie</a>.<br />
+					<br />
+					<h3 style="text-align: center;"><br />
+					</h3>
+					<h3 style="text-align: center;">Herbstprüfung am 4.11.2012</h3>
+					<br />
+					Die Ergebnisse gibt es
+					<a href="Herbstpruefung12.html" target="_blank">hier</a>, Bilder in der Galerie.<br />
+					<br />
+					<br />
+					<div style="text-align: center;">
+						<h3 class="auto-style1">&nbsp;</h3>
+						<h3 class="auto-style1">THS Kreisausscheidung der KG V 
+						in Wonfurt am 17.6.2012</h3>
+						<div style="text-align: center;">
+							Wir sind super stolz auf unsere Madlen: sie 
+							erreichte im VK I in der AK ab 15w mit Rocky eine 
+							Gesamtpunktzahl von 259 Punkten, mit einer 57 Punkte 
+							(!) starken Unterordnung. Damit hat sie sich für die 
+							Bayerische Meisterschaft qualifiziert. Herzlichen 
+							Glückwunsch und weiter so!<br />
+						</div>
+						<h3 class="auto-style1">
+						<img src="Bilder%20Seiten/IMG_5156.jpg" height="534" width="800" /><br />
+						</h3>
+						<h3 class="auto-style1"><br />
+						</h3>
+						<h3 class="auto-style1">&nbsp;</h3>
+						<h3 class="auto-style1">&nbsp;</h3>
+						<h3 class="auto-style1">THS Turnier Kitzingen am 
+						20.5.2012</h3>
+						<div class="auto-style4">
+							Bilder gibt es
+							<a href="https://picasaweb.google.com/112794114489700815940/THSTurnierAm20052012InKitzingen?authuser=0&amp;authkey=Gv1sRgCPin997SmczlHA&amp;feat=directlink" target="_blank">
+							hier</a>.<br />
+							Die Ergebnisse:<span class="commentBody" data-jsid="text"><br />
+							</span></div>
+						<table border="0" cellspacing="1" style="text-align: left; width: 325px;">
+							<tr>
+								<td class="auto-style5" style="vertical-align: top; width: 250px;">
+								VKI<br />
+								</td>
+								<td class="auto-style5" style="vertical-align: top; width: 96px; text-align: center;">
+								UO<br />
+								</td>
+								<td class="auto-style5" style="vertical-align: top; width: 147px; text-align: center;">
+								Gesamt<br />
+								</td>
+							</tr>
+							<tr>
+								<td class="auto-style5" style="vertical-align: top; width: 250px;">
+								Luise und Ina<br />
+								</td>
+								<td class="auto-style5" style="vertical-align: top; width: 96px; text-align: center;">
+								50<br />
+								</td>
+								<td class="auto-style5" style="vertical-align: top; width: 147px; text-align: center;">
+								229<br />
+								</td>
+							</tr>
+							<tr>
+								<td class="auto-style5" style="vertical-align: top; width: 250px;">
+								Madlen und Rocky<br />
+								</td>
+								<td class="auto-style5" style="vertical-align: top; width: 96px; text-align: center;">
+								50<br />
+								</td>
+								<td class="auto-style5" style="vertical-align: top; width: 147px; text-align: center;">
+								234<br />
+								</td>
+							</tr>
+							<tr>
+								<td class="auto-style5" style="vertical-align: top; width: 250px;">
+								<br />
+								</td>
+								<td class="auto-style5" style="vertical-align: top;">
+								<br />
+								</td>
+								<td class="auto-style5" style="vertical-align: top;">
+								<br />
+								</td>
+							</tr>
+							<tr>
+								<td class="auto-style5" style="vertical-align: top; width: 250px;">
+								HL<br />
+								</td>
+								<td class="auto-style5" style="vertical-align: top; width: 96px; text-align: center;">
+								Gesamt<br />
+								</td>
+								<td class="auto-style5" style="vertical-align: top; width: 147px; text-align: center;">
+								<br />
+								</td>
+							</tr>
+							<tr>
+								<td class="auto-style5" style="vertical-align: top; width: 250px;">
+								Luise und Ina<br />
+								</td>
+								<td class="auto-style5" style="vertical-align: top; width: 96px; text-align: center;">
+								64<br />
+								</td>
+								<td class="auto-style5" style="vertical-align: top; width: 147px; text-align: center;">
+								<br />
+								</td>
+							</tr>
+							<tr>
+								<td style="vertical-align: top; width: 250px;">
+								Daniel und Cody<br />
+								</td>
+								<td style="vertical-align: top; width: 96px; text-align: center;">
+								53<br />
+								</td>
+								<td  style="vertical-align: top; width: 147px; text-align: center;">
+								<br />
+								</td>
+							</tr>
+						</table>
+						<br />
+						Danke an Daniel für die Berichterstattung!<br />
+						<br />
+						<br />
+						<br />
+						<h3 class="auto-style1">THS Turnier beim Kynologischen 
+						Klub in Schweinfurt am 06.5.2012</h3>
+						Die Ergebnisse:<span class="commentBody" data-jsid="text"><br />
+						</span>
+						<table cellspacing="1" style="text-align: left; height: 172px; width: 368px;" class="auto-style6">
+							<tr>
+								<td style="vertical-align: top; width: 291px;" class="auto-style5">
+								<em><strong>VK I<br />
+								</strong></em>
+								</td>
+								<td style="vertical-align: top; width: 96px; text-align: center;" class="auto-style5">
+								<em><strong>UO<br />
+								</strong></em>
+								</td>
+								<td style="vertical-align: top; width: 147px; text-align: center;" class="auto-style5">
+								<em><strong>Gesamt<br />
+								</strong></em>
+								</td>
+							</tr>
+							<tr>
+								<td style="vertical-align: top; width: 291px;" class="auto-style5">
+								Luise und Ina<br />
+								</td>
+								<td style="vertical-align: top; width: 96px; text-align: center;" class="auto-style5">
+								45<br />
+								</td>
+								<td style="vertical-align: top; width: 147px; text-align: center;" class="auto-style5">
+								220<br />
+								</td>
+							</tr>
+							<tr>
+								<td style="vertical-align: top; width: 291px;" class="auto-style5">
+								Madlen und Rocky<br />
+								</td>
+								<td style="vertical-align: top; width: 96px; text-align: center;" class="auto-style5">
+								48<br />
+								</td>
+								<td style="vertical-align: top; width: 147px; text-align: center;" class="auto-style5">
+								238<br />
+								</td>
+							</tr>
+							<tr>
+								<td style="vertical-align: top;" class="auto-style5" colspan="3"><br />								</td>
+							</tr>
+							<tr>
+								<td style="vertical-align: top;" class="auto-style5">
+								<em><strong>Geländelauf 
+								2000m
+								</strong></em>
+								</td>
+								<td style="vertical-align: top; text-align: center;" class="auto-style5" colspan="2">
+								<em><strong>Gesamt
+								</strong></em>
+								</td>
+							</tr>
+							<tr>
+								<td style="vertical-align: top;" class="auto-style5">Madlen und 
+								Rocky<br />
+								</td>
+								<td style="vertical-align: top; text-align: center;" class="auto-style5" colspan="2">
+								74
+								</td>
+							</tr>
+							<tr>
+								<td style="vertical-align: top;" class="auto-style5" colspan="3"><br />								</td>
+							</tr>
+							<tr>
+								<td style="vertical-align: top; width: 291px;" class="auto-style5">
+								<em><strong>HL
+								</strong></em>
+								</td>
+								<td style="vertical-align: top; text-align: center;" class="auto-style5" colspan="2">
+								<em><strong>Gesamt</strong></em>
+								</td>
+							</tr>
+							<tr>
+								<td style="vertical-align: top; width: 291px; height: 26px;" class="auto-style5">
+								Luise und Ina
+								</td>
+								<td style="vertical-align: top; text-align: center; height: 26px;" class="auto-style5" colspan="2">
+								52
+								</td>
+							</tr>
+							<tr>
+								<td style="vertical-align: top;" class="auto-style5">Daniel und Cody<br />
+								</td>
+								<td style="vertical-align: top; text-align: center;" class="auto-style5" colspan="2">
+								59<br />
+								</td>
+							</tr>
+						</table>
+						<span class="commentBody" data-jsid="text"></span><br />
+						<span class="commentBody" data-jsid="text">
+						<div id="id_4fc63440326997892783670" class="text_exposed_root text_exposed">
+							<span class="text_exposed_show"></span></div>
+						</span><br />
+						<br />
+						<h3 class="auto-style1"><br />
+						</h3>
+						<h3 class="auto-style1"><br />
+						</h3>
+						<h3 class="auto-style1">Frühjahrsprüfung 2012</h3>
+						<div style="text-align: left;">
+							Die Ergebnisse gibt es
+							<a href="Fruehjahrspruefung12.html" target="_blank">hier</a>, Bilder
+							<a href="https://picasaweb.google.com/DagmarKnuettel89/Fruhjahrsprufung2012" target="_blank">
+							hier</a>.<br />
+							<div style="text-align: center;">
+								<img src="Bilder%20Seiten/IMG_4530.jpg" height="576" width="1024" /></div>
+						</div>
+					</div>
+					<p>&nbsp;</p>
+				
+</div></div></div></div>
+<div id="page" class="container">
+		<div id="content">
+		<div><h2>Unsere Übungszeiten</h2>
+			
+				<ul class="style1">
+					<li>
+					
+						<p><a href="#" class="button-style">Samstag</a></p>
+					<table style="width: 100%" cellpadding="5">
+						<tr>
+							<td style="width: 120px">ab 14 Uhr</td>
+							<td>Gruppenübungsstunde für Anfänger</td>
+						</tr>
+						<tr>
+							<td style="width: 120px; height: 27px;">ab 15 Uhr</td>
+							<td style="height: 27px">Gruppenübungsstunde für Fortgeschrittene</td>
+						</tr>
+						<tr>
+							<td style="width: 120px">ab 15 Uhr</td>
+							<td>Welpenspielgruppe</td>
+						</tr>
+						<tr>
+							<td style="width: 120px">ab 16 Uhr</td>
+							<td>Allgemeine Übungsstunde; Turnierhundesport; im 
+							Anschluss Schutzdienst</td>
+						</tr>
+					</table><p></p>
+					<p><a href="#" class="button-style">Dienstag</a></p>
+					<table cellpadding="5" style="width: 100%">
+						<tr>
+							<td style="width: 120px">ab 18 Uhr</td>
+							<td>Allgemeine Übungsstunde mit anschließendem 
+							Schutzdienst</td>
+						</tr>
+					</table>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div id="sidebar">
+			<div><h2 class="auto-style3">Bitte beachten</h2>
+			<ul class="style3">
+<li> 
+				<iframe id="I1" border="0" frameborder="0" name="I1" src="News.html" width="100%" scrolling="no" style="height: 100%>
+				Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
+				</iframe></li>					
+			
+				
+				<li>
+				<br />
+				<iframe id="I1" border="0" frameborder="0" name="I1" src="News2.html" width="100%" scrolling="no">
+				Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
+				</iframe></li>
+				
+				<li> 
+				<iframe id="I1" border="0" frameborder="0" name="I1" src="News2.html" width="100%" scrolling="no" style="height: 260px">
+				Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
+				</iframe></li>
+			</ul>
+		</div>
+	</div>	</div></div>
+<div id="footer">&copy; Dagmar Knüttel 2009 - 2013; erstellt mit Microsoft 
+	Expression Web 4. Design by <a href="http://www.freecsstemplates.org">FCT</a></div></div>
+</body>
+
+</html>
