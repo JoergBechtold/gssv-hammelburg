@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="default.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+.auto-style13 {
+	vertical-align: middle;
+}
+</style>
+<title>GSSV Hammelburg e.V.</title>
+<link rel="shortcut icon" href="Bilder%20Seiten/icon.png" type="image/png" />
+<link rel="icon" href="Bilder%20Seiten/icon.png" type="image/png" />
+</head>
+
+
+<body>
+<div id="header-wrapper">
+ <div id="header">
+ <div id="logo">
+	 <img height="150" src="Bilder%20Seiten/Banner.jpg" width="1200" /></div> 
+  <div id="menu">
+	<ul style="left: 0px; top: 0px; height: 15px">
+	<li><a href="index.html" title="">Homepage</a></li>
+	<li><a href="Ueber_uns" title="">Über uns</a></li>
+	<li><a href="Aktuelles"  title="">Aktuelles</a></li>
+	<li><a href="Termine"  title="">Termine</a></li>
+	<li><a href="#" onClick=”return true”>Ausbildung</a>
+	<ul>
+	<li><a href="BH" title="">Begleithundeausbildung</a></li>
+	<li><a href="VPG" title="">Vielseitigkeitssport</a></li>
+	<li><a href="THS" title="">Turnierhundesport</a></li></ul></li>
+	<li class="current_page_item"><a href="Welpenspielgruppe" title="">Welpenspielgruppe</a></li>
+	<li><a href="Impressum" title="">Impressum</a></li>
+	<li><a href="Galerie.htm" title="">Galerie</a></li>
+	</ul>
+	</div>
+	<br>
+
+<div id="banner"> <a href="#">
+	<img src="Bilder%20Seiten/IMG_7566.jpg" width="100%" height="100%" /></a></div></div></div></div>
+<div id="wrapper">
+<div id="page-wrapper">
+<div id="page">
+<div id="wide-content">
+				<div id="Titel">
+			<div id="logo_links">
+					<img height="93" src="Bilder%20Seiten/logoklein.jpeg" width="125" /></div>
+			<div id="logo_rechts">
+						<img height="93" src="Bilder%20Seiten/logoklein.jpeg" width="125" /></div>
+					Welpenspielgruppe</div>					
+					<p align="justify"><br />
+				<br />
+				</p>
+				<br />
+				<table border="0" cellpadding="10" align="left" width="100%">
+					<colgroup>
+						<col width="34*" /><col width="91*" />
+						<col width="131*" />
+					</colgroup>
+					<tr valign="top">
+						<td width="13%" style="height: 70px">
+						<h4>Treffpunkt</h4>
+						</td>
+						<td width="36%" style="height: 70px">
+						<p style="margin-top: 0.4cm;">ist immer samstags 15 Uhr 
+						auf dem Gelände des GSSV; die Welpengruppe dauert bis 
+						ca. 16 Uhr</p>
+						</td>
+						<td rowspan="6" width="51%">
+						<img src="Bilder%20Seiten/IMG_6139.jpg" class="auto-style13" width="100%" />
+						</td>
+					</tr>
+					<tr valign="top">
+						<td width="13%" style="height: 70px">
+						<h4>Leitung</h4>
+						</td>
+						<td width="36%" style="height: 70px">
+						<p style="margin-top: 0.4cm;">Ursula Knüttel<br />
+						Tel. 09732 5107<br />
+						oder E - Mail an 
+						<a href="mailto:edmund-ursula.knuettel@gmx.de">
+						edmund-ursula.knuettel@gmx.de </a></p>
+						</td>
+					</tr>
+					<tr valign="top">
+						<td width="13%">
+						<h4>Anmeldung</h4>
+						</td>
+						<td width="36%">
+						<p style="margin-top: 0.4cm;">ist nicht notwendig</p>
+						</td>
+					</tr>
+					<tr valign="top">
+						<td width="13%">
+						<h4>Kosten</h4>
+						</td>
+						<td width="36%">
+						1 € pro Teilnahme für Nichtmitglieder, für Mitglieder 
+						kostenfrei</td>
+					</tr>
+					<tr valign="top">
+						<td width="13%">
+						<h4>Teilnehmen</h4>
+						</td>
+						<td width="36%">
+						<p style="margin-top: 0.4cm; margin-bottom: 0.21cm;">
+						können Welpen aller Rassen und Mischlinge ab ca. 9 
+						Wochen bis zum Alter von etwa sechs Monaten.</p>
+						<p style="margin-top: 0.4cm;">Bitte haben Sie 
+						Verständnis, dass wir keine Welpen sehr kleiner Rassen 
+						(Yorkshire Terrier, Bologneser, Bolonka zwetna, Bichon 
+						frise etc.) annehmen. Aufgrund unserer Gruppengröße und 
+						-zusammensetzung sind diese meist überfordert und werden 
+						von den größeren Welpen lediglich überrannt.</p>
+						</td>
+					</tr>
+					<tr valign="top">
+						<td width="13%">
+						<h4>Mitzubringen</h4>
+						</td>
+						<td width="36%">
+						sind Halsband bzw. Geschirr und 
+				eine Leine. <br />Außerdem viele Leckerlies, am 
+				besten Wurst oder Käse, möglichst klein geschnitten.<br />Und natürlich ein ausgeruhter, gesunder und gut gelaunter Welpe 
+				:).</td>
+					</tr>
+				
+					<tr>
+						<td style="width: 472px; vertical-align: top;"><h4>Ablauf</h4></td>						<td style="width: 472px; vertical-align: top;">
+						<p style="margin-top: 0.4cm; margin-bottom: 0.21cm; width: 460px;">
+						Die erste halbe Stunde ist dem freien Spiel vorbehalten, 
+						sodass die Welpen sich kennenlernen und einfach Spaß 
+						haben können. Es folgt ein kurzer gemeinsamer 
+						Spaziergang zum „Runterkommen“, dann üben wir in der 
+						Gruppe Sitz, Platz, Sitzenbleiben, bei – Fuß – Gehen und 
+						auch Herrchen bzw. Frauchen achten sowie klettern, 
+						Durchkriechen und Balancieren auf unserer THS – 
+						Hindernisbahn. Natürlich sind die Anforderungen noch 
+						nicht hoch, wir fangen ja erst an. Ganz junge Welpen 
+						dürfen in dieser Zeit wieder spielen.</p>
+						<p style="margin-top: 0.4cm; margin-bottom: 0.21cm;">
+						Dieser zweite Teil findet an der Leine statt! Daher 
+						sollte der Hund ein Halsband tragen, außerdem sind eine 
+						Leine sowie genügend Leckerchen mitzubringen.</p>
+						<p style="margin-top: 0.4cm; margin-bottom: 0.21cm;">An 
+						sehr heißen Tagen treffen wir uns wie gewohnt am 
+						Hundeplatz, und fahren dann gemeinsam zum Wasser, wo dann Hund (und Herrchen:-)) im kühlen 
+						Nass plantschen können.<br />
+						</p>
+						<p style="margin-top: 0.4cm;">Bei Fragen wenden Sie sich 
+						bitte telefonisch an Ursula Knüttel, 09732/5107, oder 
+						per E – Mail an &nbsp;<font color="#000080"><u><a href="mailto:Dagmar.Knuettel@gmx.de">Dagmar.Knuettel@gmx.de</a></u></font></p>
+						</td>
+						<td width="51%" colspan="1">
+						<img src="Bilder%20Seiten/IMG_4556.jpg" height="458" width="550" /></td>
+				
+					</tr>
+				</table>
+				
+</div>
+	</div>
+	</div>
+
+<div id="page" class="container">
+		<div id="content">
+		<h2>Unsere Übungszeiten</h2>
+		<ul class="style3">
+		<iframe id="I1" border="0" frameborder="0" name="I1" src="content.html" width="100%" height="350px" scrolling="no">
+				Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
+				</iframe></ul>
+				
+		</div>
+		<div id="sidebar">
+			<div><h2 class="auto-style3">Bitte beachten</h2>
+			<ul class="style3">
+				<li> 
+				<iframe id="I1" border="0" frameborder="0" name="I1" src="News.html" width="100%" scrolling="no" style="height: 150px">
+				Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
+				</iframe></li>
+				
+				<li> 
+				<iframe id="I1" border="0" frameborder="0" name="I1" src="News2.html" width="100%" scrolling="no" style="height: 100%">
+				Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
+				</iframe></li>
+				<li> 
+				<iframe id="I1" border="0" frameborder="0" name="I1" src="News3.html" width="100%" scrolling="no" style="height: 100%">
+				Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
+				</iframe></li>
+
+			</ul>
+		</div>
+	</div>	</div></div>
+<div id="footer">&copy; Dagmar Knüttel 2009 - 2013; erstellt mit Microsoft 
+	Expression Web 4. Design by <a href="http://www.freecsstemplates.org">FCT</a></div>
+</body>
+
+</html>

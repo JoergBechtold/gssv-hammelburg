@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP:X-SSL} !^1$
+RewriteRule (.*) https://www.gssv-hammelburg.de$1 [R=301,L]

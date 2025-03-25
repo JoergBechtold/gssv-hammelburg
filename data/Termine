@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link href="default.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+.auto-style5 {
+	border: 1px solid #E3E3E3;
+}
+.auto-style7 {
+	text-align: center;
+}
+.auto-style8 {
+	border: 1px solid #E3E3E3;
+	color: #FF0000;
+}
+</style>
+<title>GSSV Hammelburg e.V.</title>
+<link rel="shortcut icon" href="Bilder%20Seiten/icon.png" type="image/png" />
+<link rel="icon" href="Bilder%20Seiten/icon.png" type="image/png" />
+</head>
+
+
+<body>
+<div id="header-wrapper">
+ <div id="header">
+ <div id="logo">
+	 <img height="150" src="Bilder%20Seiten/Banner.jpg" width="1200" /></div> 
+  <div id="menu">
+	<ul style="left: 0px; top: 0px; height: 15px">
+	<li><a href="index.html" title="">Homepage</a></li>
+	<li><a href="Ueber_uns" title="">Über uns</a></li>
+	<li><a href="Aktuelles"  title="">Aktuelles</a></li>
+	<li><a href="Termine"  title="">Termine</a></li>
+	<li><a href="#" onClick=”return true”>Ausbildung</a>
+	<ul>
+	<li><a href="BH" title="">Begleithundeausbildung</a></li>
+	<li><a href="VPG" title="">Vielseitigkeitssport</a></li>
+	<li><a href="THS" title="">Turnierhundesport</a></li></ul></li>
+	<li><a href="Welpenspielgruppe" title="">Welpenspielgruppe</a></li>
+	<li><a href="Impressum" title="">Impressum</a></li>
+	<li><a href="Galerie.htm" title="">Galerie</a></li>
+	</ul>
+	</div>
+	<br>
+
+<div id="banner"> <a href="#">
+	<img src="Bilder%20Seiten/0O6A4253.jpg" width="100%" height="100%" /></a></div></div></div>
+<div id="wrapper">
+<div id="page-wrapper">
+<div id="page">
+<div id="wide-content"><div>
+					<div id="Titel" class="auto-style7">
+			<div id="logo_links">
+					<img height="93" src="Bilder%20Seiten/logoklein.jpeg" width="125" /></div>
+			<div id="logo_rechts">
+						<img height="93" src="Bilder%20Seiten/logoklein.jpeg" width="125" /></div>
+						Vereins -Termine 2025</div>		
+						<br />
+					<br />
+					<br />
+						
+						<h3 class="auto-style7"> Vereinstermine 2025</h3>
+						</p><table cellpadding="5" class="auto-style3" style="width: 450px; line-height: 180%;" align="center">
+						<tr>
+							<td class="auto-style5" style="width: 150px; height: 35px;">
+							Frühjahr/ Sommer</td>
+							<td class="auto-style5" style="width: 383px; height: 35px;">
+							Jahreshauptversammlung</td>
+						</tr>
+						<tr>
+							<td class="auto-style5" style="width: 150px">
+							<strong>13.04.2025</strong></td>
+							<td class="auto-style5" style="width: 383px">
+							<strong>Frühjahrsprüfung</strong></td>
+						</tr>
+						<tr>
+							<td class="auto-style8" style="width: 150px">
+							<strong>noch offen</strong></td>
+							<td class="auto-style5" style="width: 383px">
+							<strong>Herbstprüfung</strong></td>
+						</tr>
+						<tr>
+							<td class="auto-style5" style="width: 150px">nach 
+							Ansage</td>
+							<td class="auto-style5" style="width: 383px">
+							Monatsversammlungen</td>
+						</tr>
+						<tr>
+							<td class="auto-style5" style="width: 150px">nach 
+							Ansage</td>
+							<td class="auto-style5" style="width: 383px">
+							Arbeitsdienst</td>
+						</tr>
+					</table>
+			<br /><br />
+			<br />
+								
+					für überregionale Termine siehe auch
+					<a href="http://www.blv-hundesport.de/pruefungen/pruefungen-id-kg/">
+					Homepage des BLV</a> sowie der
+					<a href="http://blv-kreisgruppe5.jimdo.com/">Kreisgruppe 5</a></div></div></div></div>
+<div id="page" class="container">
+		<div id="content">
+		<h2>Unsere Übungszeiten</h2>
+		<ul class="style3">
+		<iframe id="I1" border="0" frameborder="0" name="I1" src="content.html" width="100%" height="350px" scrolling="no">
+				Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
+				</iframe></ul>
+				
+		</div>
+		<div id="sidebar">
+			<div><h2 class="auto-style3">Bitte beachten</h2>
+			<ul class="style3">
+				<li> 
+				<iframe id="I1" border="0" frameborder="0" name="I1" src="News.html" width="100%" scrolling="no" style="height: 150px">
+				Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
+				</iframe></li>
+				
+				<li> 
+				<iframe id="I1" border="0" frameborder="0" name="I1" src="News2.html" width="100%" scrolling="no" style="height: 100%">
+				Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
+				</iframe></li>
+				<li> 
+				<iframe id="I1" border="0" frameborder="0" name="I1" src="News3.html" width="100%" scrolling="no" style="height: 100%">
+				Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
+				</iframe></li>
+
+			</ul>
+		</div>
+	</div>	</div></div>
+<div id="footer">&copy; Dagmar Knüttel 2009 - 2013; erstellt mit Microsoft 
+	Expression Web 4. Design by <a href="http://www.freecsstemplates.org">FCT</a></div>
+</body>
+
+</html>
