@@ -1,261 +1,281 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <link href="default.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+      .auto-style5 {
+        display: inline-block;
+        margin-top: 30px;
+        padding: 7px 30px;
+        background: #36332e;
+        border-radius: 5px;
+        color: #ffffff;
+        text-decoration: none;
+      }
+      .auto-style6 {
+        text-align: left;
+      }
+      .auto-style8 {
+        color: #5c5539;
+      }
+      .auto-style9 {
+        text-align: left;
+        text-decoration: underline;
+      }
+      .auto-style10 {
+        text-align: center;
+      }
+    </style>
+    <title>GSSV Hammelburg e.V.</title>
+    <link rel="shortcut icon" href="Bilder%20Seiten/icon.png" type="image/png" />
+    <link rel="icon" href="Bilder%20Seiten/icon.png" type="image/png" />
+  </head>
 
-<head>
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<link href="default.css" rel="stylesheet" type="text/css" />
-<style type="text/css">
-.auto-style5 {
-	display: inline-block;
-	margin-top: 30px;
-	padding: 7px 30px;
-	background: #36332E;
-	border-radius: 5px;
-	color: #FFFFFF;
-	text-decoration: none;
-}
-.auto-style6 {
-	text-align: left;
-}
-.auto-style8 {
-	color: #5C5539;
-}
-.auto-style9 {
-	text-align: left;
-	text-decoration: underline;
-}
-.auto-style10 {
-	text-align: center;
-}
-</style>
-<title>GSSV Hammelburg e.V.</title>
-<link rel="shortcut icon" href="Bilder%20Seiten/icon.png" type="image/png" />
-<link rel="icon" href="Bilder%20Seiten/icon.png" type="image/png" />
-</head>
+  <body>
+    <div id="header-wrapper">
+      <div id="header">
+        <div id="logo">
+          <img height="150" src="Bilder%20Seiten/Banner.jpg" width="1200" />
+        </div>
+        <div id="menu">
+          <ul style="left: 0px; top: 0px; height: 15px">
+            <li><a href="index.html" title="">Homepage</a></li>
+            <li class="current_page_item"><a href="Ueber_uns" title="">Über uns</a></li>
+            <li><a href="Aktuelles" title="">Aktuelles</a></li>
+            <li><a href="Termine" title="">Termine</a></li>
+            <li>
+              <a href="#" onclick="return true;">Ausbildung</a>
+              <ul>
+                <li><a href="BH" title="">Begleithundeausbildung</a></li>
+                <li><a href="VPG" title="">Vielseitigkeitssport</a></li>
+                <li><a href="THS" title="">Turnierhundesport</a></li>
+              </ul>
+            </li>
+            <li><a href="Welpenspielgruppe" title="">Welpenspielgruppe</a></li>
+            <li><a href="Impressum" title="">Impressum</a></li>
+            <li><a href="Galerie.htm" title="">Galerie</a></li>
+          </ul>
+        </div>
+        <br />
 
+        <div id="banner">
+          <a href="#"> <img src="Bilder%20Seiten/0O6A5026.jpg" width="100%" height="100%" /></a>
+        </div>
+      </div>
+    </div>
+    <div id="wrapper">
+      <div id="page-wrapper">
+        <div id="page">
+          <div id="wide-content">
+            <div id="Titel">
+              <div id="logo_links">
+                <img height="93" src="Bilder%20Seiten/logoklein.jpeg" width="125" />
+              </div>
+              <div id="logo_rechts">
+                <img height="93" src="Bilder%20Seiten/logoklein.jpeg" width="125" />
+              </div>
+              Über uns
+            </div>
+            <br /><br />
+            <h2>Was?</h2>
+            <div style="text-align: left">
+              <p>
+                Der GSSV Hammelburg wurde 1976 in der Kreisgruppe V des Bayerischen Landesverbandes für Hundesport (BLV), einer Untergruppe des dhV
+                (Deutscher Hundesportverband), gegründet. Seitdem bilden wir Begleithunde aus, betreiben Schutzhundesport, früher auch
+                Turnierhundesport und bieten eine Welpengruppe an.
+              </p>
+            </div>
+            <div style="text-align: left">
+              <p>
+                Zweimal im Jahr, einmal im Frühjahr und einmal im Herbst, heißt es zittern für Hund und Hundeführer - denn dann findet eine Begleit-
+                und Schutzundeprüfung statt.
+              </p>
+            </div>
+            <div style="text-align: left">
+              <p>Grundsätzlich können auch Nichtmitglieder bzw. Mitglieder anderer Hundesportvereine zum Üben zu uns kommen.</p>
+            </div>
+            <div style="text-align: left">
+              <p>Wird ein Beitritt zu unserem Verein angestrebt, bitten um Kenntnisnahme unserer Vereinssatzung und der Beitrittsordnung.</p>
+            </div>
+            <div style="text-align: left">
+              <p>&nbsp;</p>
+            </div>
+            <div style="text-align: left">
+              <p>
+                <a class="auto-style5" href="satzung.pdf">Vereinssatzung</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a class="auto-style5" href="Beitragsordnung.pdf"> Beitragsordnung</a>
+              </p>
+            </div>
+            <br />
+            <br />
+            <div style="text-align: left">
+              <h2>Wo?</h2>
+            </div>
+            <div style="text-align: left">
+              <div style="text-align: left">
+                <p>Unser Vereinsgelände befindet sich nahe des alten Sportplatzes Untererthal.</p>
+              </div>
+              <div style="text-align: left">
+                <p>
+                  Von Hammelburg kommend fahren Sie durch Untererthal durch, Richtung Neuwirtshaus, dann nach den „Serpentinen“ kurz vor dem Kieswerk
+                  links hoch. Nach circa 500 m gelangen Sie zu einer weiteren Weggabelung, an der Sie unser Vereinsgelände bereits sehen können. Dort
+                  fahren Sie geradeaus.
+                </p>
+              </div>
+            </div>
+            <div class="auto-style10">
+              <p><img height="671" src="Bilder%20Seiten/8O3A1304.jpg" width="1200" /><br /></p>
+            </div>
+            <br /><br />
+            <div style="text-align: left">
+              <h2 class="auto-style6">Wer?</h2>
+            </div>
+            <div style="text-align: left">
+              <p class="auto-style6">Unser Verein zählt derzeit über 100 Mitglieder, von denen freilich nicht alle hundesportlich aktiv sind.</p>
+            </div>
+            <div style="text-align: left">
+              <p class="auto-style6">
+                Wir trainieren auf zwei großen Plätzen, haben einen&nbsp; Zuschauerbereich mit vielfältigen Aufenthalts- uns Sitzmöglichkeiten und ein
+                von uns bewirtetes Vereinsheim.
+              </p>
+            </div>
+            <div style="text-align: left">
+              <p class="auto-style9"><strong>Im Folgenden sind unser Vorstand und unsere Ausbilder aufgeführt. </strong></p>
+            </div>
+            <div style="text-align: left">
+              <p class="auto-style6">&nbsp;</p>
+            </div>
+            <table style="width: 100%">
+              <tr>
+                <td style="width: 50%">
+                  <img src="Bilder%20Seiten/Dominik_AikoundRonja.jpg" width="530" height="372" /><br />
+                  <br />
+                </td>
+                <td style="width: 50%">
+                  <br />
+                  <img height="600" src="Bilder%20Seiten/Wolfgang_Brody.jpg" width="377" />
+                </td>
+              </tr>
+              <tr>
+                <td style="width: 50%">
+                  <h3>1. Vorsitzender</h3>
+                  <p>
+                    <strong> Dominik Zeier</strong><br />
+                    Tel.: 09704/ 893<br />
+                    E-Mail:
+                    <span class="auto-style8"> <a href="mailto:dominikzeier@freenet.de"> dominikzeier@freenet.de</a></span>
+                  </p>
+                </td>
+                <td style="width: 50%; vertical-align: top">
+                  <h3>2. Vorsitzender</h3>
+                  <p><strong>J�ügen Müller</strong></p>
+                  <p>
+                    Tel.:<br />
+                    E-Mail: <a href="mailto:"> <span class="auto-style8"></span></a>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td style="width: 50%"><img height="400" src="Bilder%20Seiten/Magdalena_Bolle.jpg" width="398" />&nbsp;</td>
+                <td style="width: 50%">
+                  <img src="Bilder%20Seiten/Mama_Luna.jpg" width="400" height="373" />
+                </td>
+              </tr>
+              <tr>
+                <td style="width: 50%">
+                  <h3>1. Schriftführer</h3>
+                  <p><strong>Katharina Hartmann</strong><br /></p>
+                </td>
+                <td style="width: 50%; vertical-align: top">
+                  <h3>Kassenwart und Welpengruppenbeauftrage</h3>
+                  <p>
+                    <strong>Ursula Knüttel</strong><br />
+                    Tel.: 09732/ 5107<br />
+                    E-Mail:
+                    <span class="auto-style8"> <a href="mailto:edmund-ursula.knuettel@gmx.de"> edmund-ursula.knuettel@gmx.de</a></span>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td style="width: 50%">
+                  <img src="Bilder%20Seiten/IMG_2736_4.jpg" width="346" height="505" />
+                </td>
+                <td style="width: 50%">
+                  <img src="Bilder%20Seiten/Katharina_Curly.jpg" width="371" height="350" />
+                </td>
+              </tr>
+              <tr>
+                <td style="width: 50%; height: 132px">
+                  <h3>1. Ausbildungswart</h3>
+                  <p>
+                    <strong>Andrea Mehl-Rühmer</strong><br />
+                    Tel.:<br />
+                    E-Mail: <a href="mailto:XX"> <span class="auto-style8">XX</span></a>
+                  </p>
+                </td>
+                <td style="width: 50%; vertical-align: top; height: 132px">
+                  <h3>2. Ausbildungswart</h3>
+                  <p>
+                    <strong>Katharina Hartmann</strong><br />
+                    E-Mail: <a href="mailto:katharina_zehe@web.de"> <span class="auto-style8">katharina_zehe@web.de</span></a>
+                  </p>
+                </td>
+              </tr>
+              <tr>
+                <td style="width: 50%">
+                  <br />
+                </td>
+                <td style="width: 50%">&nbsp;</td>
+              </tr>
 
-<body>
-<div id="header-wrapper">
- <div id="header">
- <div id="logo">
-	 <img height="150" src="Bilder%20Seiten/Banner.jpg" width="1200" /></div> 
-  <div id="menu">
-	<ul style="left: 0px; top: 0px; height: 15px">
-	<li><a href="index.html" title="">Homepage</a></li>
-	<li class="current_page_item"><a href="Ueber_uns" title="">Über uns</a></li>
-	<li><a href="Aktuelles"  title="">Aktuelles</a></li>
-	<li><a href="Termine"  title="">Termine</a></li>
-	<li><a href="#" onClick=”return true”>Ausbildung</a>
-	<ul>
-	<li><a href="BH" title="">Begleithundeausbildung</a></li>
-	<li><a href="VPG" title="">Vielseitigkeitssport</a></li>
-	<li><a href="THS" title="">Turnierhundesport</a></li></ul></li>
-	<li><a href="Welpenspielgruppe" title="">Welpenspielgruppe</a></li>
-	<li><a href="Impressum" title="">Impressum</a></li>
-	<li><a href="Galerie.htm" title="">Galerie</a></li>
-	</ul>
-	</div>
-	<br>
+              <tr>
+                <td style="width: 50%">
+                  <h3>Fährtenbeauftragte</h3>
+                  <p><strong>Ellen Weigert</strong></p>
+                </td>
+                <td style="width: 50%; vertical-align: top">&nbsp;</td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      </div>
+      <div id="page" class="container">
+        <div id="content">
+          <h2>Unsere Übungszeiten</h2>
+          <ul class="style3">
+            <iframe id="I1" border="0" frameborder="0" name="I1" src="content.html" width="100%" scrolling="no" height="350px">
+              Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
+            </iframe>
+          </ul>
+        </div>
+        <div id="sidebar">
+          <div>
+            <h2 class="auto-style3">Bitte beachten</h2>
+            <ul class="style3">
+              <li>
+                <iframe id="I1" border="0" frameborder="0" name="I1" src="News.html" width="100%" scrolling="no" style="height: 100%">
+                  Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
+                </iframe>
+              </li>
 
-<div id="banner"> <a href="#">
-	<img src="Bilder%20Seiten/0O6A5026.jpg" width="100%" height="100%" /></a></div></div></div>
-<div id="wrapper">
-<div id="page-wrapper">
-<div id="page">
-<div id="wide-content">
-	<div id="Titel">
-			<div id="logo_links">
-					<img height="93" src="Bilder%20Seiten/logoklein.jpeg" width="125" /></div>
-			<div id="logo_rechts">
-						<img height="93" src="Bilder%20Seiten/logoklein.jpeg" width="125" /></div>
-				Über uns</div>		
-				<br /><br />
-	<h2>Was?</h2>
-					<div style="text-align: left;">
-						<p>Der GSSV Hammelburg wurde 1976 in der Kreisgruppe V 
-						des Bayerischen Landesverbandes für Hundesport (BLV), 
-						einer Untergruppe des dhV (Deutscher Hundesportverband), 
-						gegründet. Seitdem bilden wir Begleithunde aus, 
-						betreiben Schutzhundesport, früher auch 
-						Turnierhundesport und bieten eine Welpengruppe an. </p>
-					</div>
-					<div style="text-align: left;">
-						<p>Zweimal im Jahr, einmal im Frühjahr und einmal im 
-						Herbst, heißt es zittern für Hund und Hundeführer - denn 
-						dann findet eine Begleit- und Schutzundeprüfung statt.</p>
-					</div>
-	<div style="text-align: left;">
-						<p>Grundsätzlich können auch Nichtmitglieder bzw. 
-						Mitglieder anderer Hundesportvereine zum Üben zu uns 
-						kommen. </p>
-					</div>
-	<div style="text-align: left;">
-						<p>Wird ein Beitritt zu unserem Verein angestrebt, 
-						bitten um Kenntnisnahme unserer Vereinssatzung und der 
-						Beitrittsordnung.</p>
-					</div>
-	<div style="text-align: left;">
-						<p>&nbsp;</p>
-					</div>
-					<div style="text-align: left;">
-						<p><a class="auto-style5" href="satzung.pdf">Vereinssatzung</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-						<a class="auto-style5" href="Beitragsordnung.pdf">
-						Beitragsordnung</a></p>
-					</div>
-					<br /> <br />
-					<div style="text-align: left;">
-						<h2>Wo?</h2>
-					</div>
-					<div style="text-align: left;">
-						<div style="text-align: left;">
-							<p>Unser Vereinsgelände befindet sich nahe des alten 
-							Sportplatzes Untererthal. </p>
-						</div>
-						<div style="text-align: left;">
-							<p>Von Hammelburg kommend fahren Sie durch 
-							Untererthal durch, Richtung Neuwirtshaus, dann nach 
-							den „Serpentinen“ kurz vor dem Kieswerk links hoch. 
-							Nach circa 500 m gelangen Sie zu einer weiteren 
-							Weggabelung, an der Sie unser Vereinsgelände bereits 
-							sehen können. Dort fahren Sie geradeaus.</p>
-						</div>
-					</div>
-	<div class="auto-style10">
-						<p>
-						<img height="671" src="Bilder%20Seiten/8O3A1304.jpg" width="1200" /><br />
-						</p>
-					</div>
-					<br /><br /><div style="text-align: left;">
-						<h2 class="auto-style6">Wer?</h2>
-					</div>
-					<div style="text-align: left;">
-						<p class="auto-style6">Unser Verein zählt derzeit über 
-						100 Mitglieder, von denen freilich nicht alle 
-						hundesportlich aktiv sind. </p>
-					</div>
-					<div style="text-align: left;">
-						<p class="auto-style6">Wir trainieren auf zwei großen 
-						Plätzen, haben einen&nbsp; Zuschauerbereich mit 
-						vielfältigen Aufenthalts- uns Sitzmöglichkeiten und ein 
-						von uns bewirtetes Vereinsheim. </p>
-					</div>
-					<div style="text-align: left;">
-						<p class="auto-style9"><strong>Im Folgenden sind unser Vorstand 
-						und unsere Ausbilder aufgeführt. </strong> </p>
-					</div>
-					<div style="text-align: left;">
-						<p class="auto-style6">&nbsp;</p>
-					</div>
-					<table style="width: 100%">
-						<tr>
-						<td style="width: 50%">
-							<img src="Bilder%20Seiten/Dominik_AikoundRonja.jpg" width="530" height="372" /><br />
-							<br />
-							</td>
-							<td style="width: 50%">
-							<br />
-							<img height="600" src="Bilder%20Seiten/Wolfgang_Brody.jpg" width="377" /></td>
-						</tr>
-						<tr>
-							<td style="width: 50%"><h3>1. 
-							Vorsitzender</h3>
-							<p><strong>
-							Dominik Zeier</strong><br />
-							Tel.: 09704/ 893<br />
-							E-Mail: 
-							<span class="auto-style8">
-							<a href="mailto:dominikzeier@freenet.de">
-							dominikzeier@freenet.de</a></span></p></td>						
-						<td style="width: 50%; vertical-align: top;">
-						<h3>2. Vorsitzender</h3>
-						<p><strong>J�ügen Müller</strong></p>
-						<p>Tel.:<br />
-							E-Mail: <a href="mailto:">
-							<span class="auto-style8"></span></a></p></td></tr>
-						<tr>
-							<td style="width: 50%">
-							<img height="400" src="Bilder%20Seiten/Magdalena_Bolle.jpg" width="398" />&nbsp;</td>
-							<td style="width: 50%">
-							<img src="Bilder%20Seiten/Mama_Luna.jpg" width="400" height="373" /></td>
-						</tr>
-						<tr>
-							<td style="width: 50%"><h3>1. Schriftführer</h3>
-							<p><strong>Katharina Hartmann</strong><br />
-							</p></td>						
-						<td style="width: 50%; vertical-align: top;">
-						<h3>Kassenwart und Welpengruppenbeauftrage</h3>
-							<p><strong>Ursula Knüttel</strong><br />
-							Tel.: 09732/ 5107<br />
-							E-Mail: 
-							<span class="auto-style8">
-							<a href="mailto:edmund-ursula.knuettel@gmx.de">
-							edmund-ursula.knuettel@gmx.de</a></span></p></td></tr>
-						<tr>
-							<td style="width: 50%">
-							<img src="Bilder%20Seiten/IMG_2736_4.jpg" width="346" height="505" /></td>
-							<td style="width: 50%">
-							<img src="Bilder%20Seiten/Katharina_Curly.jpg" width="371" height="350" /></td>
-						</tr>
-						<tr>
-							<td style="width: 50%; height: 132px;">
-						<h3>1. Ausbildungswart</h3>
-						<p><strong>Andrea Mehl-Rühmer</strong><br />
-							Tel.:<br />
-							E-Mail: <a href="mailto:XX">
-							<span class="auto-style8">XX</span></a></p></td>						
-						<td style="width: 50%; vertical-align: top; height: 132px;">
-						<h3>2. Ausbildungswart</h3>
-							<p><strong>Katharina Hartmann</strong><br />
-							E-Mail: <a href="mailto:katharina_zehe@web.de">
-							<span class="auto-style8">katharina_zehe@web.de</span></a></p></td></tr>
-							<tr>
-							<td style="width: 50%">
-							<br />
-								</td>
-							<td style="width: 50%">
-							&nbsp;</td>
-						</tr>
-
-						<tr>	<td style="width: 50%">
-						<h3>Fährtenbeauftragte</h3>
-							<p><strong>Ellen Weigert</strong></p></td>						
-						<td style="width: 50%; vertical-align: top;">
-						&nbsp;</td></tr>
-
-					</table>
-				
-</div></div></div>
-<div id="page" class="container">
-		<div id="content">
-		<h2>Unsere Übungszeiten</h2>
-		<ul class="style3">
-		<iframe id="I1" border="0" frameborder="0" name="I1" src="content.html" width="100%" scrolling="no" height="350px">
-				Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
-				</iframe></ul>
-				
-		</div>
-		<div id="sidebar">
-			<div><h2 class="auto-style3">Bitte beachten</h2>
-			<ul class="style3">
-				<li> 
-				<iframe id="I1" border="0" frameborder="0" name="I1" src="News.html" width="100%" scrolling="no" style="height: 100%">
-				Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
-				</iframe></li>
-				
-				<li> 
-				<iframe id="I1" border="0" frameborder="0" name="I1" src="News2.html" width="100%" scrolling="no" style="height: 100%">
-				Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
-				</iframe></li>
-				<li> 
-				<iframe id="I1" border="0" frameborder="0" name="I1" src="News3.html" width="100%" scrolling="no" style="height: 100%">
-				Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
-				</iframe></li>
-
-			</ul>
-		</div>
-	</div>	</div></div>
-<div id="footer">&copy; Dagmar Knüttel 2009 - 2013; erstellt mit Microsoft 
-	Expression Web 4. Design by <a href="http://www.freecsstemplates.org">FCT</a></div></div>
-</body>
-
+              <li>
+                <iframe id="I1" border="0" frameborder="0" name="I1" src="News2.html" width="100%" scrolling="no" style="height: 100%">
+                  Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
+                </iframe>
+              </li>
+              <li>
+                <iframe id="I1" border="0" frameborder="0" name="I1" src="News3.html" width="100%" scrolling="no" style="height: 100%">
+                  Ihr Browser unterstützt Inlineframes nicht oder zeigt sie in der derzeitigen Konfiguration nicht an.
+                </iframe>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="footer">
+      &copy; Dagmar Knüttel 2009 - 2013; erstellt mit Microsoft Expression Web 4. Design by <a href="http://www.freecsstemplates.org">FCT</a>
+    </div>
+  </body>
 </html>
