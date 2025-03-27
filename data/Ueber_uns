@@ -149,12 +149,12 @@
             <table style="width: 100%">
               <tr>
                 <td style="width: 50%">
-                  <img src="Bilder%20Seiten/Dominik_AikoundRonja.jpg" width="530" height="372" /><br />
+                  <img src="Bilder%20Seiten/Dominik_Ex_Unki_bearb.jpg" width="408" height="424" /><br />
                   <br />
                 </td>
                 <td style="width: 50%">
                   <br />
-                  <img height="600" src="Bilder%20Seiten/Wolfgang_Brody.jpg" width="377" />
+                  <img height="560" src="Bilder%20Seiten/Juergen_Mueller_bearb.jpg" width="399" />
                 </td>
               </tr>
               <tr>
@@ -169,15 +169,18 @@
                 </td>
                 <td style="width: 50%; vertical-align: top">
                   <h3>2. Vorsitzender</h3>
-                  <p><strong>J�ügen Müller</strong></p>
+                  <p><strong>Jürgen Müller</strong></p>
                   <p>
-                    Tel.:<br />
-                    E-Mail: <a href="mailto:"> <span class="auto-style8"></span></a>
+                    Tel.: 0157/ 76085149<br />
+                    E-Mail:
+                    <span class="auto-style8"> <a href="mailto:juergen-mueller58@freenet.de"> juergen-mueller58@freenet.de</a></span>
                   </p>
                 </td>
               </tr>
               <tr>
-                <td style="width: 50%"><img height="400" src="Bilder%20Seiten/Magdalena_Bolle.jpg" width="398" />&nbsp;</td>
+                <!-- <td style="width: 50%"><img height="400" src="Bilder%20Seiten/Magdalena_Bolle.jpg" width="398" />&nbsp;</td> -->
+                <td style="width: 50%"><img height="400" src="Bilder%20Seiten/Katharina_Curly.jpg" width="398" />&nbsp;</td>
+
                 <td style="width: 50%">
                   <img src="Bilder%20Seiten/Mama_Luna.jpg" width="400" height="373" />
                 </td>
@@ -186,6 +189,10 @@
                 <td style="width: 50%">
                   <h3>1. Schriftführer</h3>
                   <p><strong>Katharina Hartmann</strong><br /></p>
+                    Tel.: 0175/ 5286285<br />
+                    E-Mail:
+                    <span class="auto-style8"> <a href="mailto:katharina_zehe@web.de"> katharina_zehe@web.de</a></span>
+                  </p>
                 </td>
                 <td style="width: 50%; vertical-align: top">
                   <h3>Kassenwart und Welpengruppenbeauftrage</h3>
@@ -199,10 +206,10 @@
               </tr>
               <tr>
                 <td style="width: 50%">
-                  <img src="Bilder%20Seiten/IMG_2736_4.jpg" width="346" height="505" />
+                  <img src="Bilder%20Seiten/XXX" width="346" height="505" />
                 </td>
                 <td style="width: 50%">
-                  <img src="Bilder%20Seiten/Katharina_Curly.jpg" width="371" height="350" />
+                  <!-- <img src="Bilder%20Seiten/Katharina_Curly.jpg" width="371" height="350" /> -->
                 </td>
               </tr>
               <tr>
@@ -210,15 +217,16 @@
                   <h3>1. Ausbildungswart</h3>
                   <p>
                     <strong>Andrea Mehl-Rühmer</strong><br />
-                    Tel.:<br />
-                    E-Mail: <a href="mailto:XX"> <span class="auto-style8">XX</span></a>
+                    Tel.: 0176/ 50765617<br />
+                    E-Mail:
+                    <span class="auto-style8"> <a href="mailto:andrea-mehl-r@t-online.de"> andrea-mehl-r@t-online.de</a></span>
                   </p>
                 </td>
                 <td style="width: 50%; vertical-align: top; height: 132px">
-                  <h3>2. Ausbildungswart</h3>
+                  <h3></h3>
                   <p>
-                    <strong>Katharina Hartmann</strong><br />
-                    E-Mail: <a href="mailto:katharina_zehe@web.de"> <span class="auto-style8">katharina_zehe@web.de</span></a>
+                    <strong></strong><br />
+                    
                   </p>
                 </td>
               </tr>
@@ -231,8 +239,8 @@
 
               <tr>
                 <td style="width: 50%">
-                  <h3>Fährtenbeauftragte</h3>
-                  <p><strong>Ellen Weigert</strong></p>
+                  <h3></h3>
+                  <p><strong></strong></p>
                 </td>
                 <td style="width: 50%; vertical-align: top">&nbsp;</td>
               </tr>
